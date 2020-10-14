@@ -26,7 +26,7 @@ from urllib.parse import unquote
 DuckDuckGo parser
 
 @author:    Alice Wonderland
-@license:   GPL-v3-0
+@license:   GPL-v3-0-or-later
 '''
 
 # q - query
